@@ -1,0 +1,14 @@
+#define LED 4
+
+void setup() {
+ Serial1.begin(9600);
+ }
+
+void loop() { 
+ if (Serial1.available()) { 
+  if(Serial1.read()== 'a' ){
+   int brightness = Serial1.parseInt();
+   analogWrite(LED,brightness);
+    }
+  }
+ }
