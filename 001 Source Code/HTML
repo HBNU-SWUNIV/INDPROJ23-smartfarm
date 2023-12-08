@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>스마트팜 웹사이트</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Do+Hyeon&family=Jua&display=swap" rel="stylesheet">
+    <style>
+        * {
+            font-family: 'Jua', sans-serif;
+        }
+        body {
+            margin: 20px;
+        }
+
+        header {
+            text-align: center;
+            padding: 10px;
+            background-color: #4CAF50;
+            color: white;
+        }
+
+        section {
+            margin: 20px 0;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #4CAF50;
+            color: white;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>스마트팜 관리 시스템</h1>
+</header>
+
+<section>
+    <h2> 🌿 현재 작물의 상태는? </h2>
+    <p>온도: </p>
+    <p>습도: </p>
+    <p>조도: </p>
+</section>
+
+<section>
+    <h2>💡조명 제어 </h2>
+    <button onclick="turnOn()">조명 켜기</button>
+    <button onclick="turnOff()">조명 끄기</button>
+</section>
+
+<footer>
+    <p>&copy; 산학협력프로젝트 스마트팜</p>
+</footer>
+
+<script>
+    function turnOn() {
+        alert('농장을 켭니다.');
+        // 동작추가
+    }
+
+    function turnOff() {
+        alert('농장을 끕니다.');
+        // 동작추가
+    }
+</script>
+
+</body>
+</html>
