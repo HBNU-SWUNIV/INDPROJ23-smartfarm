@@ -24,8 +24,7 @@
   
 ## System Design
   - ### System Requirements
-    - OOO
-    - OOO
+    - 스마트팜의 환경 상태 측정 및 상태값 전송
     
 ## Case Study
   - ### Description
