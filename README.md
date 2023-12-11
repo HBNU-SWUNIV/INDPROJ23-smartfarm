@@ -28,6 +28,15 @@
     
 ## Case Study
   - ### Description
+<p align="center">
+  <img src="https://github.com/HBNU-SWUNIV/INDPROJ23-smartfarm/assets/131340668/81c28d75-6b81-49ad-be6c-4e15a0689761">
+</p>
+
+스마트 메이커로 구현해본 스마트팜 애플리케이션의 화면이다
+<p align="center">
+  <img src="https://github.com/HBNU-SWUNIV/INDPROJ23-smartfarm/assets/131340668/5388cf44-e537-4b1a-b499-124b99156b3b">
+</p>
+웹사이트에서 볼 수 있는 모습이다
   
   
 ## Conclusion
