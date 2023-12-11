@@ -1,2 +1,2 @@
 # Prsentation
- - 프로젝트를 설명할 수 있는 발표자료 첨부
+ - https://github.com/HBNU-SWUNIV/INDPROJ23-smartfarm/files/13633912/_.1.pdf
